@@ -1,0 +1,13 @@
+{
+  "item.modularprocessing.base_module": "Basis Mdul",
+  "block.modularprocessing.test_ore": "Test Erz",
+  "block.modularprocessing.test_block": "Test Block",
+  "block.modularprocessing.gueryllium_ore": "Gueryllium Erz",
+  "itemGroup.machineModTab": "Modular Processing Diverses",
+  "itemGroup.machineModTabItems": "Modular Processing Blöcke",
+  "item.modularprocessing.banana": "Banane",
+  "item.modularprocessing.dark_matter": "Dunkle Materie",
+  "block.modularprocessing.beryllium_ore": "Beryllium Erz",
+  "block.modularprocessing.beryllium_block": "Beryllium Block",
+  "block.modularprocessing.powered_smelter": "Elektrischer Ofen"
+}

@@ -1,0 +1,13 @@
+{
+   "item.modularprocessing.base_module": "Base Module",
+   "block.modularprocessing.test_ore": "Test Ore",
+   "block.modularprocessing.test_block": "Test Block",
+   "block.modularprocessing.gueryllium_ore": "Gueryllium Ore",
+   "itemGroup.machineModTab": "Modular Processing Misc",
+   "itemGroup.machineModTabItems": "Modular Processing Blocks",
+   "item.modularprocessing.banana": "Banana",
+   "item.modularprocessing.dark_matter": "Dark Matter",
+   "block.modularprocessing.beryllium_ore": "Beryllium Ore",
+   "block.modularprocessing.beryllium_block": "Beryllium Block",
+   "block.modularprocessing.powered_smelter": "Powered Smelter"
+}
